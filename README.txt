@@ -12,7 +12,7 @@ nonlevelblock_version : non-levelblock ver.
 
 ###############################################################################
 
-Use Asset	Platformer Art Complete Pack by Kenney Vleugels (www.kenney.nl)
+Use Asset	Design : Platformer Art Complete Pack by Kenney Vleugels (www.kenney.nl)
                          Sound : BenSound (www.bensound.com)
 
 ###############################################################################
